@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
       ],
       dependencies: [],
       child: MaterialApp(
-        title: 'Gerencia Loja Virtual',
+        title: 'Gerencia da Loja Virtual',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           appBarTheme: AppBarTheme(
